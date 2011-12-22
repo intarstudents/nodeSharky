@@ -1,3 +1,9 @@
 [submodule "node-websocket-server"]
 	path = node-websocket-server
-	url = git://github.com/miksago/node-websocket-server.git
+	url = https://github.com/Ragnis/node-websocket-server.git
+[submodule "websocket.io"]
+	path = websocket.io
+	url = https://github.com/LearnBoost/websocket.io.git
+[submodule "WebSocket-Node"]
+	path = WebSocket-Node
+	url = https://github.com/Worlize/WebSocket-Node.git
