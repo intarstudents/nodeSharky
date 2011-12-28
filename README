@@ -1,0 +1,2 @@
+npm install git://github.com/Worlize/WebSocket-Node.git
+npm install git://github.com/substack/node-optimist.git
